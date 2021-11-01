@@ -15,11 +15,11 @@ const welcome = require('./message/group')
 baterai = 'unknown'
 charging = 'unknown'
 
-fakenomor = '6285640068416@s.whatsapp.net'
-const gcrevoke = ["6285640068416-6285640068416@g.us"]
+fakenomor = '6283129083971@s.whatsapp.net'
+const gcrevoke = ["6283129083971-6283129083971@g.us"]
 prefix = '#'
 shp = '⬡'
-owner = "6285640068416@s.whatsapp.net"
+owner = "6283129083971@s.whatsapp.net"
 spc1 = '         '
 
 spc2 = '\n                           '
